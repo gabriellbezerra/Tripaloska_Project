@@ -1,0 +1,18 @@
+body {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-color: rgb(41, 41, 41);
+  }
+
+main_block {
+    background-color: rgb(41, 41, 41);
+    background-size: cover;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
